@@ -7,8 +7,8 @@ public class add {
     }
    static class overlording {
         public static void main(String[] args) {
-            System.out.println(add.Add(11,15));
-            System.out.println(add.Add(7.52 , 2.25));
+            System.out.println(add.Add(10,5));
+            System.out.println(add.Add(71.52 , 22.25));
         }
 
     }
