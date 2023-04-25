@@ -10,6 +10,6 @@ public class strIn {
     public static void main(String[] args) {
         strIn st = new strIn();
         st.display(78.78);
-        st.display("malshani");
+        st.display("ma");
     }
 }
